@@ -1,4 +1,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hira-ayub&theme=onedark_duo)](https://git.io/streak-stats)
+![Hira GitHub stats](https://github-readme-stats.vercel.app/api?username=hira-ayub&show_icons=true&theme=radical)
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
