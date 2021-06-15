@@ -1,5 +1,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hira-ayub&theme=onedark_duo)](https://git.io/streak-stats)
 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
 <!--
 **hira-ayub/hira-ayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
