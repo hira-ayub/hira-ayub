@@ -1,12 +1,6 @@
 
-
- <p align="center">MY Github Stats </p>
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hira-ayub&theme=onedark_duo)](https://git.io/streak-stats)![Hira GitHub stats](https://github-readme-stats.vercel.app/api?username=hira-ayub&show_icons=true&theme=radical)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hira-ayub)](https://github.com/anuraghazra/github-readme-stats)-->
+<h1>
+ <p align=:"center"> Technology Stack </p></h1>
 
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -22,6 +16,21 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+
+
+
+
+<p align="center">MY Github Stats </p>
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hira-ayub&theme=onedark_duo)](https://git.io/streak-stats)![Hira GitHub stats](https://github-readme-stats.vercel.app/api?username=hira-ayub&show_icons=true&theme=radical)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hira-ayub)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+
 
 <!--
 **hira-ayub/hira-ayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
