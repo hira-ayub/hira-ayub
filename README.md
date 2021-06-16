@@ -27,7 +27,7 @@ Accomplished and performance-driven professional with a solid record in administ
 •	Data Quality & Accuracy
 •	Cost Reduction/Avoidance
 
-<h3><p align="center">MY Github Stats </p></h3>
+<!--<h3><p align="center">MY Github Stats </p></h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hira-ayub&theme=onedark_duo)](https://git.io/streak-stats)![Hira GitHub stats](https://github-readme-stats.vercel.app/api?username=hira-ayub&show_icons=true&theme=radical)
 
