@@ -1,7 +1,8 @@
 
 <h1>
  <p align=:"center"> About Me </p></h1>
-
+</h1>
+Accomplished and performance-driven professional with a solid record in administration, enterprise IT services, and data analysis, leading organizational success. Keen flair for establishing analytical frameworks, partnering with cross-functional teams to define measurement approaches, quantify and evaluate success, develop KPIs and guide tracking efforts for ongoing measurement and reporting. Adept at furnishing insights, analytics, and business intelligence used to advance opportunity identification, process reengineering, and corporate growth. Exercise a collaborative approach towards database types; research methodologies; and big data capture, curation, manipulation, and visualization. Proven accomplishments in business development, spearheading growth projects, and driving engagement. Seeking to leverage multifaceted expertise and transferable skills in digital data analysis and reporting.
 
 
 
