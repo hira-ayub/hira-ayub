@@ -1,13 +1,8 @@
 
-<h1>
- <p align=:"center"> About Me </p></h1>
-</h1>
+<h1><p align=:"center"> About Me </p></h1>
 Accomplished and performance-driven professional with a solid record in administration, enterprise IT services, and data analysis, leading organizational success. Keen flair for establishing analytical frameworks, partnering with cross-functional teams to define measurement approaches, quantify and evaluate success, develop KPIs and guide tracking efforts for ongoing measurement and reporting. Adept at furnishing insights, analytics, and business intelligence used to advance opportunity identification, process reengineering, and corporate growth. Exercise a collaborative approach towards database types; research methodologies; and big data capture, curation, manipulation, and visualization. Proven accomplishments in business development, spearheading growth projects, and driving engagement. Seeking to leverage multifaceted expertise and transferable skills in digital data analysis and reporting.
 
-
-
-<h1>
- <p align=:"center"> Technology Stack </p></h1>
+<h1> <p align=:"center"> Technology Stack </p></h1>
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,8 +18,16 @@ Accomplished and performance-driven professional with a solid record in administ
 <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-<h3>
-<p align="center">MY Github Stats </p></h3>
+<h1> <p align=:"center"> AREAS OF EXPERTISE </p></h1>
+•	Analytical Frameworks
+•	Data Visualization
+•	Business Intelligence	•	Database Management 
+•	Technology Integration
+•	Budget Administration 	•	Financial Stewardship
+•	Data Quality & Accuracy
+•	Cost Reduction/Avoidance
+
+<h3><p align="center">MY Github Stats </p></h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hira-ayub&theme=onedark_duo)](https://git.io/streak-stats)![Hira GitHub stats](https://github-readme-stats.vercel.app/api?username=hira-ayub&show_icons=true&theme=radical)
 
