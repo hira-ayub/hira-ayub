@@ -18,7 +18,7 @@ Accomplished and performance-driven professional with a solid record in administ
 <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-<h1> <p align=:"center"> AREAS OF EXPERTISE </p></h1>
+<h1> <p align=:"center"> Areas of Expertise </p></h1>
 •	Analytical Frameworks
 •	Data Visualization
 •	Business Intelligence	•	Database Management 
